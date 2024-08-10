@@ -87,7 +87,7 @@ This project showcases the analysis of Human Resources (HR) data and the creatio
 
 
 ## Dashboard Overview
-![This is how the dashboard looks like.](Dashboard_image.png)
+![This is how the dashboard looks like.](HR_Dashboard.png)
 You can download and view the project demonstration video by [clicking here](https://github.com/NikithaMogaveer/Blinkit_PowerBI_Dashboard/releases/download/blinkit-dashboard-demo-v1/Blinkit_clip.1.mp4)
 
 ## Conclution
