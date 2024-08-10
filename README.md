@@ -88,7 +88,7 @@ This project showcases the analysis of Human Resources (HR) data and the creatio
 
 ## Dashboard Overview
 ![This is how the dashboard looks like.](HR_Dashboard.png)
-You can download and view the project demonstration video by [clicking here](https://github.com/NikithaMogaveer/Blinkit_PowerBI_Dashboard/releases/download/blinkit-dashboard-demo-v1/Blinkit_clip.1.mp4)
+You can download and view the project demonstration video by [clicking here](https://github.com/NikithaMogaveer/HR_Data_Analytics_PowerBI_Dashboard/releases/download/hr-dashboard-demo-video-v1/HR_clip.mp4)
 
 ## Conclution
 The workforce has grown significantly from 2017 to 2023, reflecting the company’s expansion. There is a higher number of female employees compared to males, with notable role variations—Packaging Associates being the largest group and Marketing roles the smallest. Employees aged 30 are the largest age group for both genders. Salary analysis shows that Product Managers earn the highest salaries, while Packaging Associates receive the lowest. Educational qualifications affect salary levels, with Master’s degree holders earning the most. Leave balances are generally moderate, with some employees having more than 20 days of leave. These insights highlight growth, gender imbalance, role distribution, salary disparities, and leave management within the organization.
