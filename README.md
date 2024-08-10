@@ -1,5 +1,4 @@
 # HR_Data_Analytics_PowerBI_Dashboard
-
 ## Overview
 This project showcases the analysis of Human Resources (HR) data and the creation of interactive dashboards using Power BI. It covers the process of loading and cleaning data, creating insightful metrics, and designing a comprehensive HR dashboard to visualize key HR statistics effectively.
 
