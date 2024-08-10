@@ -26,7 +26,7 @@ This project showcases the analysis of Human Resources (HR) data and the creatio
 - Staff Growth Trend: Analyze the trend of staff growth over time.
 - Employee Filter: Filter employees based on the starting letter of their name.
 - Leave Balance Analysis: Review leave balances, especially focusing on those exceeding 20 days.
-- HR Dashboard: Design a comprehensive HR dashboard to consolidate and visualize key metrics.
+- HR Dashboard: Design a HR dashboard to consolidate and visualize key metrics.
 
 ## Insights
 ### 1. Employee Statistics
@@ -91,4 +91,4 @@ This project showcases the analysis of Human Resources (HR) data and the creatio
 You can download and view the project demonstration video by [clicking here](https://github.com/NikithaMogaveer/HR_Data_Analytics_PowerBI_Dashboard/releases/download/hr-dashboard-demo-video-v1/HR_clip.mp4)
 
 ## Conclution
-The workforce has grown significantly from 2017 to 2023, reflecting the company’s expansion. There is a higher number of female employees compared to males, with notable role variations—Packaging Associates being the largest group and Marketing roles the smallest. Employees aged 30 are the largest age group for both genders. Salary analysis shows that Product Managers earn the highest salaries, while Packaging Associates receive the lowest. Educational qualifications affect salary levels, with Master’s degree holders earning the most. Leave balances are generally moderate, with some employees having more than 20 days of leave. These insights highlight growth, gender imbalance, role distribution, salary disparities, and leave management within the organization.
+The workforce has grown significantly from 2017 to 2023, reflecting the company’s expansion. There is a higher number of female employees compared to males, with notable role variations, Packaging Associates being the largest group and Marketing roles the smallest. Employees aged 30 are the largest age group for both genders. Salary analysis shows that Product Managers earn the highest salaries, while Packaging Associates receive the lowest. Educational qualifications affect salary levels, with Master’s degree holders earning the most. Leave balances are generally moderate, with some employees having more than 20 days of leave. These insights highlight growth, gender imbalance, role distribution, salary disparities, and leave management within the organization.
